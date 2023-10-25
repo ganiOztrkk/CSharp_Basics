@@ -1,0 +1,14 @@
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/bin/Debug/net7.0/CSharp_Basics
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/bin/Debug/net7.0/CSharp_Basics.deps.json
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/bin/Debug/net7.0/CSharp_Basics.runtimeconfig.json
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/bin/Debug/net7.0/CSharp_Basics.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/bin/Debug/net7.0/CSharp_Basics.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.AssemblyInfo.cs
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/refint/CSharp_Basics.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/CSharp_Basics.genruntimeconfig.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics/obj/Debug/net7.0/ref/CSharp_Basics.dll
