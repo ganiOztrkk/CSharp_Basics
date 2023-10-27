@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework1/CSharp_Basics.Homework1.csproj",
-      "projectName": "CSharp_Basics.Homework1",
-      "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework1/CSharp_Basics.Homework1.csproj",
+      "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/CSharp_Algorithm.csproj",
+      "projectName": "CSharp_Algorithm",
+      "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/CSharp_Algorithm.csproj",
       "packagesPath": "/Users/gani/.nuget/packages/",
-      "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework1/obj/",
+      "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gani/.nuget/NuGet/NuGet.Config"

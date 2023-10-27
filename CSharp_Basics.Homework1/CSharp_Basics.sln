@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Basics.Homework1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Basics.Homework2", "..\CSharp_Basics.Homework2\CSharp_Basics.Homework2.csproj", "{DB56A62B-C24A-464A-BD32-A4E68FF5D8F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Algorithm", "..\CSharp_Algorithm\CSharp_Algorithm.csproj", "{F5A343DD-716D-4258-99C8-8B33A314D061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB56A62B-C24A-464A-BD32-A4E68FF5D8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB56A62B-C24A-464A-BD32-A4E68FF5D8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB56A62B-C24A-464A-BD32-A4E68FF5D8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A343DD-716D-4258-99C8-8B33A314D061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A343DD-716D-4258-99C8-8B33A314D061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A343DD-716D-4258-99C8-8B33A314D061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A343DD-716D-4258-99C8-8B33A314D061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
