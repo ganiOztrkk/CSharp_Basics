@@ -13,6 +13,8 @@
 7-Write a C# program finds first 10 perfect numbers.
 */
 
+using System.Numerics;
+
 Console.WriteLine();
 
 #region Question1
@@ -227,7 +229,6 @@ for (int i = 2; ; i++)
             Console.WriteLine($"{i}, {j}");
             flag--;
         }
-
         total2 = 0;
     }
 
@@ -267,36 +268,69 @@ while (flag < 10)
 
 #region Way2
 
-/*int perfectCount = 0;
-while (perfectCount < 10)
+//int perfectCount = 0;
+//while (perfectCount < 10)
+//{
+//    for (int i = 1; ; i++)
+//    {
+//        if (IsPerfect(i))
+//        {
+//            Console.WriteLine(i);
+//            perfectCount++;
+//        }
+//    }
+//}
+
+
+//static bool IsPerfect(int number)
+//{
+//    int sum = 1;
+//    for (int i = 2; i < number; i++)
+//    {
+//        if (number % i == 0)
+//        {
+//            sum += i;
+//        }
+//    }
+//    return sum == number;
+//}
+
+#endregion
+
+
+
+
+#endregion
+
+BigInteger p = 2;
+BigInteger sayac = 1;
+while (sayac <= 10)
 {
-    for (int i = 1; ; i++)
+    if (p == 2 || p % 2 == 1)
     {
-        if (IsPerfect(i))
-        {
-            Console.WriteLine(i);
-            perfectCount++;
-        }
+        Console.WriteLine(PerfectFormula(p));
+        p++;
+        sayac++;
+    }
+    else
+    {
+        p++;
+        continue;
     }
 }
 
-
-static bool IsPerfect(int number)
+static BigInteger PerfectFormula(BigInteger p)
 {
-    int sum = 1;
-    for (int i = 2; i < number; i++)
+    return UsAlma(2, p - 1) * (UsAlma(2, p) - 1);
+}
+static BigInteger UsAlma(BigInteger taban, BigInteger us)
+{
+    BigInteger sonuc = 1;
+    for (BigInteger i = 0; i < us; i++)
     {
-        if (number % i == 0)
-        {
-            sum += i;
-        }
+        sonuc *= taban;
     }
-    return sum == number;
-}*/
+    return sonuc;
+}
 
-#endregion
-
-
-
-
-#endregion
+Console.ReadKey();

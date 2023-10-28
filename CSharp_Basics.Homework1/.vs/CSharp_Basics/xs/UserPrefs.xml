@@ -1,13 +1,25 @@
-﻿<Properties StartupConfiguration="{DB56A62B-C24A-464A-BD32-A4E68FF5D8F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
-    <Files>
-      <File FileName="Program.cs" Line="270" Column="6" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CSharp__Basics.Homework2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CSharp__Algorithm FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CSharp__Basics.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{F5A343DD-716D-4258-99C8-8B33A314D061}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CSharp__Basics.Homework1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharp__Basics.Homework2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CSharp_Algorithm/Program.cs">
+    <Files>
+      <File FileName="../CSharp_Algorithm/Program.cs" Line="336" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp_Basics">
+            <Node name="CSharp_Algorithm" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharp__Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

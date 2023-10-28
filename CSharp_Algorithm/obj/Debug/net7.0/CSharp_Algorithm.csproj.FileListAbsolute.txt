@@ -1,0 +1,14 @@
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/bin/Debug/net7.0/CSharp_Algorithm
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/bin/Debug/net7.0/CSharp_Algorithm.deps.json
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/bin/Debug/net7.0/CSharp_Algorithm.runtimeconfig.json
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/bin/Debug/net7.0/CSharp_Algorithm.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/bin/Debug/net7.0/CSharp_Algorithm.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.AssemblyInfo.cs
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/refint/CSharp_Algorithm.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/CSharp_Algorithm.genruntimeconfig.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Algorithm/obj/Debug/net7.0/ref/CSharp_Algorithm.dll

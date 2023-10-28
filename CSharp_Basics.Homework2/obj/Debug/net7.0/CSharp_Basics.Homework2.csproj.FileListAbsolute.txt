@@ -1,0 +1,14 @@
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/bin/Debug/net7.0/CSharp_Basics.Homework2
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/bin/Debug/net7.0/CSharp_Basics.Homework2.deps.json
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/bin/Debug/net7.0/CSharp_Basics.Homework2.runtimeconfig.json
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/bin/Debug/net7.0/CSharp_Basics.Homework2.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/bin/Debug/net7.0/CSharp_Basics.Homework2.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.AssemblyInfo.cs
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/refint/CSharp_Basics.Homework2.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/CSharp_Basics.Homework2.genruntimeconfig.cache
+/Users/gani/Desktop/Github/CSharp_Basics/CSharp_Basics.Homework2/obj/Debug/net7.0/ref/CSharp_Basics.Homework2.dll
