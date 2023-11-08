@@ -1,0 +1,14 @@
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/bin/Debug/net7.0/Tobeto
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/bin/Debug/net7.0/Tobeto.deps.json
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/bin/Debug/net7.0/Tobeto.runtimeconfig.json
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/bin/Debug/net7.0/Tobeto.dll
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/bin/Debug/net7.0/Tobeto.pdb
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.AssemblyInfoInputs.cache
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.AssemblyInfo.cs
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.dll
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/refint/Tobeto.dll
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.pdb
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/Tobeto.genruntimeconfig.cache
+/Users/gani/Desktop/RiderProjets/Tobeto/Tobeto/obj/Debug/net7.0/ref/Tobeto.dll
