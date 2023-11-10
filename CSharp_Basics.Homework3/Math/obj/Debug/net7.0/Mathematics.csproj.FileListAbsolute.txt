@@ -1,0 +1,15 @@
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/bin/Debug/net7.0/Mathematics
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/bin/Debug/net7.0/Mathematics.deps.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/bin/Debug/net7.0/Mathematics.runtimeconfig.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/bin/Debug/net7.0/Mathematics.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/bin/Debug/net7.0/Mathematics.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.csproj.AssemblyReference.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.AssemblyInfoInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.AssemblyInfo.cs
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/refint/Mathematics.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/Mathematics.genruntimeconfig.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Mathematics/obj/Debug/net7.0/ref/Mathematics.dll

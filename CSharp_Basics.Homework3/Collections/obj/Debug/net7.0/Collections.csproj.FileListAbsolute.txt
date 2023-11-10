@@ -1,0 +1,15 @@
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/bin/Debug/net7.0/Collections
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/bin/Debug/net7.0/Collections.deps.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/bin/Debug/net7.0/Collections.runtimeconfig.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/bin/Debug/net7.0/Collections.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/bin/Debug/net7.0/Collections.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.csproj.AssemblyReference.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.AssemblyInfoInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.AssemblyInfo.cs
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/refint/Collections.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/Collections.genruntimeconfig.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/Collections/obj/Debug/net7.0/ref/Collections.dll

@@ -1,0 +1,15 @@
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/bin/Debug/net7.0/OOP1_3
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/bin/Debug/net7.0/OOP1_3.deps.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/bin/Debug/net7.0/OOP1_3.runtimeconfig.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/bin/Debug/net7.0/OOP1_3.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/bin/Debug/net7.0/OOP1_3.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.csproj.AssemblyReference.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.AssemblyInfoInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.AssemblyInfo.cs
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/refint/OOP1_3.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/OOP1_3.genruntimeconfig.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OOP1_3/obj/Debug/net7.0/ref/OOP1_3.dll

@@ -1,0 +1,15 @@
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/bin/Debug/net7.0/ValueAndReferenceTypes
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/bin/Debug/net7.0/ValueAndReferenceTypes.deps.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/bin/Debug/net7.0/ValueAndReferenceTypes.runtimeconfig.json
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/bin/Debug/net7.0/ValueAndReferenceTypes.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/bin/Debug/net7.0/ValueAndReferenceTypes.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.csproj.AssemblyReference.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.AssemblyInfoInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.AssemblyInfo.cs
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/refint/ValueAndReferenceTypes.dll
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.pdb
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ValueAndReferenceTypes.genruntimeconfig.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/ValueAndReferenceTypes/obj/Debug/net7.0/ref/ValueAndReferenceTypes.dll

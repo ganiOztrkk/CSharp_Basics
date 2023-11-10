@@ -1,0 +1,5 @@
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OPP1_2/obj/Debug/net7.0/OPP1_2.csproj.AssemblyReference.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OPP1_2/obj/Debug/net7.0/OPP1_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OPP1_2/obj/Debug/net7.0/OPP1_2.AssemblyInfoInputs.cache
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OPP1_2/obj/Debug/net7.0/OPP1_2.AssemblyInfo.cs
+/Users/melodibayraktar/Projects/CSharpCourseOOP2/OPP1_2/obj/Debug/net7.0/OPP1_2.csproj.CoreCompileInputs.cache
