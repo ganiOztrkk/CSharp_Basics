@@ -1,0 +1,17 @@
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/Business.deps.json
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/Business.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/Business.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/Entities.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/bin/Debug/net7.0/Entities.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/Business.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/Business/obj/Debug/net7.0/ref/Business.dll

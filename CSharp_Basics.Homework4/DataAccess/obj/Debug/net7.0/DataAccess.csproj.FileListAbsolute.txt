@@ -1,0 +1,15 @@
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/gani/Downloads/Tobeto_.Net-1A-main/CSharp_Exercises/CSharp_Basics.Homework4/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
