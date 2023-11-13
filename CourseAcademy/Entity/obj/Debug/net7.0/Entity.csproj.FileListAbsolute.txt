@@ -1,0 +1,14 @@
+/Users/gani/Desktop/Github/CourseAcademy/Entity/bin/Debug/net7.0/Entity.deps.json
+/Users/gani/Desktop/Github/CourseAcademy/Entity/bin/Debug/net7.0/Entity.runtimeconfig.json
+/Users/gani/Desktop/Github/CourseAcademy/Entity/bin/Debug/net7.0/Entity.dll
+/Users/gani/Desktop/Github/CourseAcademy/Entity/bin/Debug/net7.0/Entity.pdb
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.csproj.AssemblyReference.cache
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.AssemblyInfo.cs
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.dll
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/refint/Entity.dll
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.pdb
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/Entity.genruntimeconfig.cache
+/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/Debug/net7.0/ref/Entity.dll
