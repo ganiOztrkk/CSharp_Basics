@@ -37,4 +37,9 @@ public class CourseManager : ICourseService
     {
         return _courseDal.GetList();
     }
+
+    public List<Course> GetCoursesWithNames()
+    {
+        return _courseDal.GetCoursesWithNames();
+    }
 }

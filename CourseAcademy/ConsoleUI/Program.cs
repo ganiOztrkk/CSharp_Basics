@@ -4,10 +4,11 @@ using DataAccess.EntityFramework;
 
 ICourseService _courseService = new CourseManager(new EfCourseDal());
 
+var courses = _courseService.GetCoursesWithNames();
 
-var courses =  _courseService.GetList();
 
-foreach (var item in courses)
+
+courses.ForEach(x =>
 {
-    Console.WriteLine(item.Title + "||" + item.Description);
-}
+    Console.WriteLine($"{x.Id} - {x.Title} - {x.Category.Name} - {x.Instructor.Name}");
+});

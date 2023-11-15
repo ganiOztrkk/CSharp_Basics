@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {}
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {}
   },
   "projects": {
-    "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5vcff8HGokWh+qS9cAASZoYpe+v8MvdIzD0OFIXnO2Oq4Vm+mRL5wNK/afLJRD8MKDuAdhJJrTCxX9yzk1nkvg==",
+  "dgSpecHash": "rn3XXVh3j1cL0yslIH3Une5KCsVZnkEjWU1zizQfksnk6YuKWhPxmXa6f2RTKfdX4By9g37wWKZwVKN3NehrDg==",
   "success": true,
-  "projectFilePath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj",
+  "projectFilePath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj",
   "expectedPackageFiles": [
     "/Users/gani/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

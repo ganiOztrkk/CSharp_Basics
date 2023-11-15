@@ -2954,11 +2954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
+      "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
       "packagesPath": "/Users/gani/.nuget/packages/",
-      "outputPath": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/obj/",
+      "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gani/.nuget/NuGet/NuGet.Config"
@@ -2973,14 +2973,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj": {
-              "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj"
+            "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj": {
+              "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj"
             },
-            "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj": {
-              "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj"
+            "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj"
             },
-            "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {
-              "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj"
+            "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {
+              "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj"
             }
           }
         }

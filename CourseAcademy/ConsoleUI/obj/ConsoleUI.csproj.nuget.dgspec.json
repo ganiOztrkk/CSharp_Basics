@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj": {}
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
-    "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj": {
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/CourseAcademy/Business/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj"
+              "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj"
               },
-              "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj"
+              "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj": {
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"
@@ -108,14 +108,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Business/Business.csproj"
+              "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/Business.csproj"
               },
-              "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj"
+              "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj"
               },
-              "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj"
+              "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj": {
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"
@@ -193,8 +193,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj"
+              "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj"
               }
             }
           }
@@ -250,14 +250,14 @@
         }
       }
     },
-    "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj": {
+    "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/Entity.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/Entity.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/CourseAcademy/Entity/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"

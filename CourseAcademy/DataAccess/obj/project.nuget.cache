@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9ngfnAgWWA0YHFcdAHgf1JhnYD0gvOFDSyE0gAh9F5iB538u7xV5jkkIII+NX5hVLVHmLLDeYbxmYP9R1Hltw==",
+  "dgSpecHash": "8ospoN7hajeBKeSAc+hzlJAz+n4OL4Of4b14Rp7BY8EQp2GINzi5ZaXdfWt7Ht803yiXbVV3xVDgaxhvjEXLMg==",
   "success": true,
-  "projectFilePath": "/Users/gani/Desktop/Github/CourseAcademy/DataAccess/DataAccess.csproj",
+  "projectFilePath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/gani/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

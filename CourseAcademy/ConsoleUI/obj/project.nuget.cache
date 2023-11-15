@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ME+S751TCkIIDLQK9lr7xSiACA7xTn8EOQN56XrOkYB7kU/5qtOJbqsYSL5sxxIaSWH+WGdXHMk9D2eRvT7EWQ==",
+  "dgSpecHash": "1+bf87ZspU43b2bhz8ObYVpd0vG2Ovy6DEZ7Z3KIPsUyAOmT6qhKbubOI6dyT18egP6I0m9FVklCQHb8lvNUvA==",
   "success": true,
-  "projectFilePath": "/Users/gani/Desktop/Github/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
+  "projectFilePath": "/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
     "/Users/gani/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
