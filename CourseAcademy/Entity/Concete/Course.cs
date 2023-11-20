@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using Core.GenericRepository.Abstract;
 
 namespace Entity.Concete;
@@ -8,11 +9,13 @@ public class Course : IEntity
     
     
     public int CategoryId { get; set; }
-    public Category? Category { get; set; }
+    [JsonIgnore]
+    public virtual Category? Category { get; set; }
     //migration için ilişki
     
     public int InstructorId { get; set; }
-    public Instructor? Instructor { get; set; }
+    [JsonIgnore]
+    public virtual Instructor? Instructor { get; set; }
     //migration için ilişki
     
     
