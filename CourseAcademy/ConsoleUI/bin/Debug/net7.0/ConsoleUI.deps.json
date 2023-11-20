@@ -9,6 +9,7 @@
       "ConsoleUI/1.0.0": {
         "dependencies": {
           "Business": "1.0.0",
+          "Core": "1.0.0",
           "DataAccess": "1.0.0",
           "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
@@ -616,6 +617,7 @@
       },
       "Business/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "DataAccess": "1.0.0",
           "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
@@ -625,8 +627,17 @@
           "Business.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.13"
+        },
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
@@ -637,6 +648,7 @@
       },
       "Entity/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
         },
@@ -1073,6 +1085,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

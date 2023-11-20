@@ -37,3 +37,5 @@
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/obj/Debug/net7.0/Business.pdb
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/obj/Debug/net7.0/Business.genruntimeconfig.cache
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/bin/Debug/net7.0/Core.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Business/bin/Debug/net7.0/Core.pdb

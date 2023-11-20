@@ -1,4 +1,5 @@
-using Entity.Abstract;
+using Core.GenericRepository.Abstract;
+
 
 
 namespace Entity.Concete;
@@ -9,6 +10,5 @@ public class Instructor : IEntity
     public string? Name { get; set; }
     
     
-
     public List<Course>? Courses { get; set; }
 }

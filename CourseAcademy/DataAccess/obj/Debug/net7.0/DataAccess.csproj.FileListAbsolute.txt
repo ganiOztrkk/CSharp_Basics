@@ -33,3 +33,5 @@
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.pdb
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/DataAccess/bin/Debug/net7.0/Core.pdb

@@ -1,6 +1,8 @@
 using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entity.Concete;
+using Entity.DTOs;
 
 namespace Business.Concrete;
 
@@ -13,33 +15,41 @@ public class CourseManager : ICourseService
         _courseDal = courseDal;
     }
 
-    public void Insert(Course entity)
+    public IResult Insert(Course entity)
     {
         _courseDal.Insert(entity);
+        return new SuccessResult();
     }
 
-    public void Delete(Course entity)
+    public IResult Delete(Course entity)
     {
         _courseDal.Delete(entity);
+        return new SuccessResult();
     }
 
-    public void Update(Course entity)
+    public IResult Update(Course entity)
     {
         _courseDal.Update(entity);
+        return new SuccessResult();
     }
 
-    public Course? GetById(int id)
+    public IDataResult<Course?> GetById(int id)
     {
-        return _courseDal.GetById(id);
+        return new SuccessDataResult<Course?>(_courseDal.GetById(id));
     }
 
-    public List<Course> GetList()
+    public IDataResult<List<Course>> GetList()
     {
-        return _courseDal.GetList();
+        return new SuccessDataResult<List<Course>>(_courseDal.GetList());
     }
 
-    public List<Course> GetCoursesWithNames()
+    public IDataResult<List<Course>> GetCoursesWithNames()
     {
-        return _courseDal.GetCoursesWithNames();
+        return new SuccessDataResult<List<Course>>(_courseDal.GetCoursesWithNames());
+    }
+
+    public IDataResult<List<DisplayCourseDto>> GetCoursesWithNames2()
+    {
+        return new SuccessDataResult<List<DisplayCourseDto>>(_courseDal.GetCoursesWithNames2());
     }
 }

@@ -1,4 +1,5 @@
 using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entity.Concete;
 
@@ -13,28 +14,31 @@ public class InstructorManager : IInstructorService
         _instructorDal = instructorDal;
     }
 
-    public void Insert(Instructor entity)
+    public IResult Insert(Instructor entity)
     {
         _instructorDal.Insert(entity);
+        return new SuccessResult();
     }
 
-    public void Delete(Instructor entity)
+    public IResult Delete(Instructor entity)
     {
         _instructorDal.Delete(entity);
+        return new SuccessResult();
     }
 
-    public void Update(Instructor entity)
+    public IResult Update(Instructor entity)
     {
         _instructorDal.Update(entity);
+        return new SuccessResult();
     }
 
-    public Instructor? GetById(int id)
+    public IDataResult<Instructor?> GetById(int id)
     {
-        return _instructorDal.GetById(id);
+        return new SuccessDataResult<Instructor?>(_instructorDal.GetById(id));
     }
 
-    public List<Instructor> GetList()
+    public IDataResult<List<Instructor>> GetList()
     {
-        return _instructorDal.GetList();
+        return new SuccessDataResult<List<Instructor>>(_instructorDal.GetList());
     }
 }

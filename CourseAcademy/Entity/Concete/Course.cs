@@ -1,4 +1,4 @@
-using Entity.Abstract;
+using Core.GenericRepository.Abstract;
 
 namespace Entity.Concete;
 
@@ -9,14 +9,16 @@ public class Course : IEntity
     
     public int CategoryId { get; set; }
     public Category? Category { get; set; }
-    
+    //migration için ilişki
     
     public int InstructorId { get; set; }
-    public Instructor? Instructor { get; set; }//migration için ilişki
+    public Instructor? Instructor { get; set; }
+    //migration için ilişki
     
     
     public string? Title { get; set; }
     public string? Description { get; set; }
     public int Price { get; set; }
-    public string? ImageUrl { get; set; } //nullable
+    public string? ImageUrl { get; set; } 
+    // ? = nullable
 }

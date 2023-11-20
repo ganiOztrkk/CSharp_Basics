@@ -27,3 +27,6 @@
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/obj/Debug/net7.0/Entity.pdb
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/obj/Debug/net7.0/Entity.genruntimeconfig.cache
 /Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/obj/Debug/net7.0/ref/Entity.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/bin/Debug/net7.0/Core.dll
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/bin/Debug/net7.0/Core.pdb
+/Users/gani/Desktop/Github/CSharp_Basics/CourseAcademy/Entity/obj/Debug/net7.0/Entity.csproj.CopyComplete

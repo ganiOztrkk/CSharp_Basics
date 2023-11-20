@@ -1,4 +1,4 @@
-using Entity.Abstract;
+using Core.GenericRepository.Abstract;
 
 namespace Entity.Concete;
 
