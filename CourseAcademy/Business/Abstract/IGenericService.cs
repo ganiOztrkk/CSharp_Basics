@@ -11,4 +11,4 @@ public interface IGenericService<T> where T:class, IEntity, new()
     public IResult Update(T entity);
     public IDataResult<T?> GetById(int id);
     public IDataResult<List<T>> GetList();
-}
+} 

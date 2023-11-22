@@ -16,7 +16,7 @@ public class CourseManager : ICourseService
     }
 
     public IResult Insert(Course entity)
-    {
+    { 
         _courseDal.Insert(entity);
         return new SuccessResult();
     }
