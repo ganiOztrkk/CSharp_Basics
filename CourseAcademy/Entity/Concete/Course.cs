@@ -9,13 +9,11 @@ public class Course : IEntity
     
     
     public int CategoryId { get; set; }
-    [JsonIgnore]
-    public virtual Category? Category { get; set; }
+    public virtual Category? Category { get; private set; }
     //migration için ilişki
     
     public int InstructorId { get; set; }
-    [JsonIgnore]
-    public virtual Instructor? Instructor { get; set; }
+    public virtual Instructor? Instructor { get; private set; }
     //migration için ilişki
     
     

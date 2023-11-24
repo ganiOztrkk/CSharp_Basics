@@ -1,6 +1,4 @@
 using Business.Abstract;
-using Business.Concrete;
-using DataAccess.EntityFramework;
 using Entity.Concete;
 using Microsoft.AspNetCore.Mvc;
 
@@ -30,6 +28,5 @@ namespace WebAPI.Controllers
             var result = _courseService.Insert(course);
             return result.Success ? Ok() : BadRequest(result);
         }
-        
     }
 }
